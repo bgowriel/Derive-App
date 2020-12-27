@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608924408 source:d:\_proiecte cpp\proiect_ip_deriv\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdio>
+	<string.h>
+	<graphics.h>
+	<cmath>
+
