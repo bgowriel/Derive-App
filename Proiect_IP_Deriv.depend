@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1608924408 source:d:\_proiecte cpp\proiect_ip_deriv\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdio>
+	<string.h>
+	<graphics.h>
+	<cmath>
+
+1609164260 source:c:\users\roxi\desktop\proiect\proiect_ip_deriv\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdio>
+	<string.h>
+	<graphics.h>
+	<cmath>
+
+1610049613 source:e:\proiect_ip\proiect_ip_deriv\main.cpp
+	<graphics.h>
+	"postfix.h"
+	"formula_tree.h"
+	"derive_simplify.h"
+	"draw_math_expression.h"
+	"graphic_menu_read_and_write_to_file.h"
+
+1610147653 e:\proiect_ip\proiect_ip_deriv\postfix.h
+	<stdio.h>
+	<ctype.h>
+
+1610157816 e:\proiect_ip\proiect_ip_deriv\formula_tree.h
+	<stdio.h>
+	<ctype.h>
+
+1610157933 e:\proiect_ip\proiect_ip_deriv\derive_simplify.h
+	<stdio.h>
+	<ctype.h>
+
+1610186372 e:\proiect_ip\proiect_ip_deriv\graphic_menu_read_and_write_to_file.h
+	<stdio.h>
+	<graphics.h>
+	<shellapi.h>
+
+1610158278 e:\proiect_ip\proiect_ip_deriv\draw_math_expression.h
+	<stdio.h>
+	<graphics.h>
+
