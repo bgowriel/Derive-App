@@ -1,0 +1,11 @@
+Formula:
+
+x*sin(1-x^2)
+
+First order derivative:
+
+sin(1-x^2)+(cos(1-x^2))*(-x*2)*x
+
+Second order derivative:
+
+(cos(1-x^2))*(-x*2)+((-sin(1-x^2))*(-x*2)*(-x*2)+(-2)*(cos(1-x^2)))*x+(cos(1-x^2))*(-x*2)
